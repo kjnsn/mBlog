@@ -1,6 +1,6 @@
 <?php
 
-# mBlog v0.4.0 - Copyright 2012 Lachlan Main <lachlan.main@gmail.com>
+# mBlog v0.4.0 - Copyright 2012 Kaley Main <kaleypoole17@gmail.com>
 # Licensed under the GPL version 3 <http://www.gnu.org/licenses/gpl-3.0.html>
 
 require_once 'markdown.php';
